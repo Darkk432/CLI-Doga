@@ -7,8 +7,15 @@
       "RelativeMoniker": "D:0:0:{F880AB45-EDA8-A32C-B95D-CA656DD00B68}|CLI doga\\CLI doga.csproj|solutionrelative:cli doga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kovacs.krisztian4\\Desktop\\LINQ DOGA\\test.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F880AB45-EDA8-A32C-B95D-CA656DD00B68}|CLI doga\\CLI doga.csproj|c:\\users\\kovacs.krisztian4\\documents\\github\\cli doga\\cli doga\\cli doga\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F880AB45-EDA8-A32C-B95D-CA656DD00B68}|CLI doga\\CLI doga.csproj|solutionrelative:cli doga\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kovacs.krisztian4\\Documents\\GitHub\\CLI Doga\\CLI doga\\CLI doga\\bin\\Debug\\videogames.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CLI doga\\bin\\Debug\\videogames.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +25,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "test.md",
+              "DocumentMoniker": "C:\\Users\\kovacs.krisztian4\\Desktop\\LINQ DOGA\\test.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\LINQ DOGA\\test.md",
+              "ToolTip": "C:\\Users\\kovacs.krisztian4\\Desktop\\LINQ DOGA\\test.md",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\LINQ DOGA\\test.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-11T11:32:53.69Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Games.cs",
               "DocumentMoniker": "C:\\Users\\kovacs.krisztian4\\Documents\\GitHub\\CLI Doga\\CLI doga\\CLI doga\\Games.cs",
               "RelativeDocumentMoniker": "CLI doga\\Games.cs",
               "ToolTip": "C:\\Users\\kovacs.krisztian4\\Documents\\GitHub\\CLI Doga\\CLI doga\\CLI doga\\Games.cs",
               "RelativeToolTip": "CLI doga\\Games.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T10:57:56.367Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "videogames.csv",
+              "DocumentMoniker": "C:\\Users\\kovacs.krisztian4\\Documents\\GitHub\\CLI Doga\\CLI doga\\CLI doga\\bin\\Debug\\videogames.csv",
+              "RelativeDocumentMoniker": "CLI doga\\bin\\Debug\\videogames.csv",
+              "ToolTip": "C:\\Users\\kovacs.krisztian4\\Documents\\GitHub\\CLI Doga\\CLI doga\\CLI doga\\bin\\Debug\\videogames.csv",
+              "RelativeToolTip": "CLI doga\\bin\\Debug\\videogames.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-11-11T11:32:37.303Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +76,7 @@
               "RelativeDocumentMoniker": "CLI doga\\Program.cs",
               "ToolTip": "C:\\Users\\kovacs.krisztian4\\Documents\\GitHub\\CLI Doga\\CLI doga\\CLI doga\\Program.cs",
               "RelativeToolTip": "CLI doga\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwB0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T10:56:50.887Z",
               "EditorCaption": ""

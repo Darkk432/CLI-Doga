@@ -1,0 +1,16 @@
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\bin\Debug\net10.0\CLI doga.exe
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\bin\Debug\net10.0\CLI doga.deps.json
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\bin\Debug\net10.0\CLI doga.runtimeconfig.json
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\bin\Debug\net10.0\CLI doga.dll
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\bin\Debug\net10.0\CLI doga.pdb
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\obj\Debug\net10.0\CLI doga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\obj\Debug\net10.0\CLI doga.AssemblyInfoInputs.cache
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\obj\Debug\net10.0\CLI doga.AssemblyInfo.cs
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\obj\Debug\net10.0\CLI doga.csproj.CoreCompileInputs.cache
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\obj\Debug\net10.0\CLI doga.sourcelink.json
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\obj\Debug\net10.0\CLI doga.dll
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\obj\Debug\net10.0\refint\CLI doga.dll
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\obj\Debug\net10.0\CLI doga.pdb
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\obj\Debug\net10.0\CLI doga.genruntimeconfig.cache
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\obj\Debug\net10.0\ref\CLI doga.dll
+C:\Users\kovacs.krisztian4\Documents\GitHub\CLI Doga\CLI doga\CLI doga\obj\Debug\net10.0\CLI doga.csproj.Up2Date

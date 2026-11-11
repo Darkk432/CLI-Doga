@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CLI doga")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b80858db5b39a9a0a8b9f0a0d6d351521b215b36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fc361f5991df471299b7c4c949ed693a6444ef9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CLI doga")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CLI doga")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

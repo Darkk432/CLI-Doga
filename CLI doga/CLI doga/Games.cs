@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CLI_doga
+﻿class Games
 {
-    internal class Games
-    {
+
         public string Cim { get; set; }
         public string Mufaj { get; set; }
         public DateTime KiadasDatum { get; set; }
@@ -18,6 +13,4 @@ namespace CLI_doga
             $"\tKiadási dátuma: {KiadasDatum}\n" +
             $"\tAktív játékosok: {AktivJatekosok}\n" +
             $"\tÉrtékelés: {Ertekeles:0.0}/5,0";
-    }
-}
 }
